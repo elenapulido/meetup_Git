@@ -1,9 +1,8 @@
 import React from 'react'
-import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-import HTTPService from "../../service/HTTPService";
-import logo from "../../assets/logo.png";
+
+
 
 function Navbar() {
   
