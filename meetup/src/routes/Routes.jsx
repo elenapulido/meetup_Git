@@ -3,6 +3,7 @@ import {BrowserRouter, Routes, Route } from "react-router-dom";
 import Commands from "../views/Commands";
 import GoodPractices from "../views/GoodPractices";
 import Mosaic from "../views/Mosaic";
+import Home from "../views/Home"
 
 
 
