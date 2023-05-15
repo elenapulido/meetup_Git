@@ -1,8 +1,11 @@
 import React from 'react'
+import Navbar from '../navbar/Navbar'
 
 function Mosaic() {
   return (
-    <div>Mosaic</div>
+    <div>
+      <Navbar />
+    </div>
   )
 }
 
